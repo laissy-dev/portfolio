@@ -1,0 +1,31 @@
+.web{
+    display: flex;
+    flex: 1;
+    align-items: center;
+}
+.web-option{
+    font-size: 20px;
+    margin-right: 16px;
+    font-weight: 700;
+}
+
+.web-option a{
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    color: #000000; /* text color */
+}
+.web-option a:hover{
+    color: white;
+    transition: background-color 0.2s ease-in-out;
+    text-shadow: 0 0 5px rgb(0, 0, 0), 0 0 10px rgb(0, 0, 0), 0 0 15px rgb(0, 0, 0); /* glowing text outline */
+}
+
+.option-icon{
+    display: flex;
+    align-items: center;
+    margin-right: 4px;
+}
+.web-option:last-child {
+    margin-right: 0px;
+}

@@ -12,7 +12,7 @@ export const ProjectData=[
         title:"Portfolio",
         about: "Terminé - 2022",
         tags:["ReactJS", "OVH-Cloud", "Projets", "Compétences", "Expériences", "Parcours", "Visual Studio Code"],
-        demo:"https://laissy.dev/",
+        demo:"https://laissy-dev.github.io/portfolio/",
         //github:"https://github.com/ThantZinPhyo-OP/Portfolio-Website",
         image:"https://www.datocms-assets.com/45470/1631110818-logo-react-js.png",
     },

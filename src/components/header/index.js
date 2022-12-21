@@ -8,7 +8,7 @@ function Header() {
   const [isOpen, setIsOpen]=useState(false);
   return (
     <div className="header">
-      <div className="logo">laissy.dev</div>
+      <div className="logo">laissy-dev.github.io</div>
       <div className="menu">
         <div className="web-menu">
           <Web />
